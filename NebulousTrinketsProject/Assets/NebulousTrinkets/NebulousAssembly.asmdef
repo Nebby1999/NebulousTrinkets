@@ -1,0 +1,26 @@
+{
+    "name": "NebulousAssembly",
+    "references": [
+        "MoonstormSharedUtils"
+    ],
+    "includePlatforms": [],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": true,
+    "precompiledReferences": [
+        "BepInEx.dll",
+        "HGCSharpUtils.dll",
+        "HGUnityUtils.dll",
+        "MMHOOK_RoR2.dll",
+        "Newtonsoft.Json.dll",
+        "R2API.dll",
+        "RoR2.dll",
+        "RoR2BepInExPack.dll",
+        "Unity.Addressables.dll",
+        "Unity.ResourceManager.dll"
+    ],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}
