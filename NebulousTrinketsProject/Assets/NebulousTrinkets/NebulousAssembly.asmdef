@@ -1,7 +1,8 @@
 {
     "name": "NebulousAssembly",
     "references": [
-        "MoonstormSharedUtils"
+        "MoonstormSharedUtils",
+        "com.unity.multiplayer-hlapi.Runtime"
     ],
     "includePlatforms": [],
     "excludePlatforms": [],

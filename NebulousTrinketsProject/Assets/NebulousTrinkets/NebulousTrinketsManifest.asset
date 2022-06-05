@@ -32,7 +32,10 @@ MonoBehaviour:
   rootFolderName: NebulousLanguage
   languageFolders:
   - languageName: en
-    languageFiles: []
+    languageFiles:
+    - {fileID: 4900000, guid: 594c7c3acfd49554484dcf4268b24f5d, type: 3}
+    - {fileID: 4900000, guid: d49a561796037484e9eb4bfb50e4679a, type: 3}
+    - {fileID: 4900000, guid: 38b39605c736ab94dabad564ed7494b7, type: 3}
 --- !u!114 &11400000
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -54,7 +57,7 @@ MonoBehaviour:
   - {fileID: 8324102109481770816}
   - {fileID: -4467616490986340797}
   identity: {fileID: 114211852988908172}
-  QuickAccess: 0
+  QuickAccess: 1
 --- !u!114 &114107831304456238
 MonoBehaviour:
   m_ObjectHideFlags: 1
