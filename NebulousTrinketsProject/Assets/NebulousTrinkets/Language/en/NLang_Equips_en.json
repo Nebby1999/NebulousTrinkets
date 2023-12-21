@@ -1,9 +1,0 @@
-{
-	"strings": {
-		"NT_EQUIP_BROTHERRING_NAME": "Bulwark's Ring",
-		"NT_EQUIP_BROTHERRING_PICKUP": "All Stats Up, Cannot be removed by normal means.",
-		"NT_EQUIP_BROTHERRING_DESC": "Increases Attack Speed, Skill Cooldown Reduction, Critical Damage, Damage, Health, Jump Strength, Movement Speed, Regeneration, Shield, Critical Strike Change and Armor by 10%. But cannot be removed unless a cleansing pool is used.",
-		"NT_EQUIP_BROTHERRING_LORE": "This is just Providence's Cockring.",
-		"NT_EQUIP_BROTHERRING_DENIED": "The Bulwark's Ring prohibits the exchange..."
-	}
-}
